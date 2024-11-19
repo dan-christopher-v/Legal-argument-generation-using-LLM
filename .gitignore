@@ -1,0 +1,10 @@
+__pycache__
+.chainlit
+.files
+chainlit.md
+Combined_Data.pdf
+Dhillip_Coimbined_PDF_Data.pdf
+doc_samp1.pdf
+embedding_creator.py
+app.py
+.env

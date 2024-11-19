@@ -1,0 +1,13 @@
+# Listed all the requirements here 
+
+langchain # Acts on top of all
+langchain_community
+chainlit # For user interface
+langchain_groq # Inference 
+langchain_pinecone # Vector Database
+py-dotenv # For detecting environment
+pypdf # For RAG
+fastapi
+# google-cloud-speech pyaudio
+
+
